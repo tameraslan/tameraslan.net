@@ -1,0 +1,2 @@
+[18-Apr-2014 10:23:01 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home/tameras1/public_html/wp-content/plugins/hello.php on line 60
+[12-May-2014 04:21:16 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home/tameras1/public_html/wp-content/plugins/hello.php on line 60
